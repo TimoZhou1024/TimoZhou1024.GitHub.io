@@ -10,8 +10,6 @@ for detailed information, go to [Google](https://www.google.com)
 
 for crane services, go to [konecranes](https://www.konecranes.com)
 
-![Image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fmb.cision.com%2FPublic%2F3084%2F9944428%2F8bac83f15767ab92_org.jpg&refer=http%3A%2F%2Fmb.cision.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1614002814&t=09c5390d7ab5671a4e7b812102531900)
+![Image](https://static.runoob.com/images/runoob-logo.png)
 (highly recommended!!!)
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
