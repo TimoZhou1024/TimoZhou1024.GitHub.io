@@ -1,5 +1,5 @@
 #search engine
 
-[Baidu](https://www.baidu.com)
+for normal & domistic searching, use [Baidu](https://www.baidu.com)
 
-[google](https://www.google.com)
+for detailed information, use[google](https://www.google.com)
