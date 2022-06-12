@@ -6,6 +6,7 @@ For Timo's Onedrive, go to [Timo's Onedrive](https://onedrive-vercel-index-5991l
 
 For finer experience, go to [Server_Timo](https://sharelist-timo.herokuapp.com)
 
+For the best experience, go to [Alist](https://alist-timo.herokuapp.com)
 ## Crane
 
 For crane services, go to [konecranes](https://www.konecranes.com)
