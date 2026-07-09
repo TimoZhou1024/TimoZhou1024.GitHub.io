@@ -7,58 +7,42 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+PDF version coming soon.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Fudan University**, B.S. in Data Science and Big Data Technology, Sept. 2023 - Present  
+  GPA: 3.95, Rank: 2/76
+- **University of California, Berkeley**, Exchange Student in Statistics, Oct. 2025 - Dec. 2025  
+  GPA: 4.00
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Structured Representation Learning
+- Generative Modeling
+- Model Editing
+- Trustworthy and Explainable AI
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Experience
+
+- **Gu Lab, Hebei Normal University**, Research Assistant, Oct. 2025 - Present
+- **ZMIC Lab, Fudan University**, Research Assistant, Dec. 2025 - Present
+- **Zhu Lab, Fudan University**, Research Assistant, Apr. 2024 - Apr. 2026
+
+## Honors and Awards
+
+- National Scholarship, 2024, 2025
+- Second Prize, National Undergraduate Mathematical Contest in Modeling, Provincial Level, 2024
+- Third Prize, National Undergraduate Mathematics Competition, 2023, 2024
+- First Prize, Fudan She Cup Academic English Vocabulary Competition, Undergraduate & Graduate Division, 2024, 2025
+- Bronze Medal, China International College Students’ Innovation Competition, 2025
+
+## Technical Skills
+
+- Python, Shell/Bash, C/C++, HTML/CSS
+- PyTorch, NumPy, SciPy, scikit-learn, Pandas
+- Linux, WSL2, Docker, Git, LaTeX, Markdown
+
+## Language
+
+- English: TOEFL 101
